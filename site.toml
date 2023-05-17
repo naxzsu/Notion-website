@@ -4,7 +4,7 @@
 
 # DO NOT CHANGE THIS VALUE. The deploy script relies on the site being deployed to the
 # "site" directory.
-name = "site"
+name = "dashboard-nx"
 
 # This page should be the root of your website. It's important.
-page = "<your Notion share URL here>"
+page = "https://collinsdi.notion.site/collinsdi/Dashboard-Temp-V2-7ef8d371ebde4155b089c2c915e7d8a2"
